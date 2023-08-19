@@ -1,4 +1,4 @@
-<h1 align="center">Hola devs, this is gh profile of Srish</h1>
+<h1 align="center">Hola devs ⚛️, this is gh profile of Srish</h1>
 <h3 align="center">A curious and ambitious mind from anywhere apart from present.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srish-ty&label=Profile%20views&color=0e75b6&style=flat" alt="srish-ty" /> </p>
