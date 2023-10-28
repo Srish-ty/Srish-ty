@@ -16,11 +16,11 @@
 
 - 📝 I regularly write articles on [https://msrishty.wordpress.com/](https://msrishty.wordpress.com/)
 
-- 💬 Ask me about **tensorflow, ML, React, express.js**
+- 💬 Ask me about **ML, DevOps, Cloud, Cyber-security**
 
 - 📫 How to reach me **https://www.linkedin.com/in/m-srishty/**
 
-- ⚡ Fun fact **I have OCD**
+- ⚡ Fun fact **I have insomnia**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
