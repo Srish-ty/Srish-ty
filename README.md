@@ -12,13 +12,13 @@
 
 - 🌱 I’m currently learning **Terraform, jenkins**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Srish-ty/](https://github.com/Srish-ty/)
+- 👨‍💻 All of my projects are available at [GitHub profile (link)](https://github.com/Srish-ty/)
 
-- 📝 I regularly write articles on [https://msrishty.wordpress.com/](https://msrishty.wordpress.com/)
+- 📝 I regularly write articles on [Blog - The Code World](https://msrishty.wordpress.com/)
 
 - 💬 Ask me about **ML, DevOps, Cloud, Cyber-security**
 
-- 📫 How to reach me **https://www.linkedin.com/in/m-srishty/**
+- 📫 How to reach me **[LinkedIn profile link](https://www.linkedin.com/in/m-srishty/)**
 
 - ⚡ Fun fact **I have insomnia**
 
