@@ -1,7 +1,7 @@
 <h1 align="center">Hola devs ⚛️, this is gh profile of Srish</h1>
 <h3 align="center">A curious and ambitious mind from anywhere apart from present.</h3>
 
-<img alt="Coder smirking girl" align="right" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" />
+<img alt="Coder smirking girl" width=500 align="right" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srish-ty&label=Profile%20views&color=0e75b6&style=flat" alt="srish-ty" /> </p>
 
