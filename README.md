@@ -68,6 +68,11 @@ const Srish = {
 
 <hr/>
 
+```ruby
+┌──(l4dybu6㉿GitHub)-[~]
+└─$ bash stats.sh 
+```
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srish-ty&show_icons=true&locale=en&layout=compact" alt="srish-ty" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srish-ty&show_icons=true&locale=en" alt="srish-ty" /></p>
