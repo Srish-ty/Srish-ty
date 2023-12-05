@@ -80,3 +80,13 @@ const Srish = {
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srish-ty&show_icons=true&locale=en" alt="srish-ty" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srish-ty&" alt="srish-ty" /></p>
+
+--- stats
+
+  <br/>
+  <div>
+    <a href="https://github.com/Srish-ty"><img alt="Srishty's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Srish-ty&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/Srish-ty"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Srishty streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Srish-ty&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></a>
+  </div>
+<br/>
+
