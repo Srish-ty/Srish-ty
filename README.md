@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub profile (link)](https://github.com/Srish-ty/)
 
-- 📝 I regularly write articles on [Blog - The Code World](https://msrishty.wordpress.com/)
+- 📝 I regularly write articles on [Blog - Medium](https://msrishty.medium.com/)
 
 - 💬 Ask me about **ML, DevOps, Cloud, Cyber-security**
 
