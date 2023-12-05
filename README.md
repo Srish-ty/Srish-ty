@@ -29,9 +29,12 @@
 <a href="https://kaggle.com/srishty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="srishty" height="30" width="40" /></a>
 <a href="https://instagram.com/srish_ty_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="srish_ty_" height="30" width="40" /></a>
 <b>Youtube Channel:</b> 
-<a href="https://www.youtube.com/c/srishty m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="srishty m" height="30" width="40" /></a>
-<a href="https://openprofile.dev/profile/l4dybu6" target="blank"><img align="center" src="https://lfx.linuxfoundation.org/wp-content/uploads/2022/09/LFX-logo.svg" alt="srishty m" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/srishty m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="srishty m" height="30" width="40" /></a>   
+  <b>Blog: </b>  <a href="https://msrishty.medium.com/" target="blank"><img align="center" src="https://github.com/Srish-ty/Srish-ty/assets/68679980/4971616b-63d4-4bd0-909d-c9176b8653ba" alt="srish_ty_" height="35" width="40" /></a>
+    <a href="https://openprofile.dev/profile/l4dybu6" target="blank"><img align="center" src="https://lfx.linuxfoundation.org/wp-content/uploads/2022/09/LFX-logo.svg" alt="srishty m" height="30" width="40" /></a>
 </p>
+
+
 
 <h2 align="center">More about Me <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </h3>
 <br>
