@@ -65,11 +65,6 @@ const Srish = {
 
 <hr/>
 
-### Hacktoberfest completion
-[![An image of @l4dybu6's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/l4dybu6)](https://holopin.io/@l4dybu6)
-
-<hr/>
-
 ```ruby
 ┌──(l4dybu6㉿GitHub)-[~]
 └─$ bash stats.sh 
@@ -83,3 +78,8 @@ const Srish = {
     <a href="https://github.com/Srish-ty"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Srishty streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Srish-ty&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></a>
   </div>
 <br/>
+<hr/>
+### Hacktoberfest completion
+[![An image of @l4dybu6's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/l4dybu6)](https://holopin.io/@l4dybu6)
+
+<hr/>
