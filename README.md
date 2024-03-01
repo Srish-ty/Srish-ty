@@ -31,7 +31,7 @@
 <b>Youtube Channel:</b> 
 <a href="https://www.youtube.com/c/srishty m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="srishty m" height="30" width="40" /></a>   
   <b>Blog: </b>  <a href="https://msrishty.medium.com/" target="blank"><img align="center" src="https://github.com/Srish-ty/Srish-ty/assets/68679980/4971616b-63d4-4bd0-909d-c9176b8653ba" alt="srish_ty_" height="35" width="40" /></a>
-    <a href="https://openprofile.dev/profile/l4dybu6" target="blank"><img align="center" src="https://lfx.linuxfoundation.org/wp-content/uploads/2022/09/LFX-logo.svg" alt="srishty m" height="30" width="40" /></a>
+   sessions conducted:  <a href="https://openprofile.dev/profile/l4dybu6" target="blank"><img align="center" src="https://res.cloudinary.com/dinjes859/image/upload/v1709271099/Linux_Foundation_logo_xebpgy.png" alt="srishty m" height="30" width="98" /></a>
 </p>
 
 
