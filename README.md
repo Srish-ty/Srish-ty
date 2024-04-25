@@ -73,12 +73,18 @@ const Srish = {
 └─$ bash stats.sh 
 ```
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srish-ty&show_icons=true&locale=en&layout=compact" alt="srish-ty" /></p>
+<p align="center">
+<a href="https://github.com/Srish-ty">
+  <img alt="Srishty's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srish-ty&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
-  <br/>
-  <div>
-    <a href="https://github.com/Srish-ty"><img alt="Srishty's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Srish-ty&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    <a href="https://github.com/Srish-ty"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Srishty streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Srish-ty&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></a>
+ 
+ <a href="https://github.com/Srish-ty"><img alt="Srishty's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Srish-ty&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+</p>
+
+    
+ <div align="center">
+   
+   <a href="https://github.com/Srish-ty"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Srishty streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Srish-ty&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></a>
   </div>
 <br/>
 <hr/>
