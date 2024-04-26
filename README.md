@@ -1,5 +1,5 @@
 <h1 align="center">Hola devs ⚛️, this is gh profile of Srish</h1>
-<h3 align="center">A curious and ambitious mind from anywhere apart from present.</h3>
+<h3 align="center">A curious and ambitious mind existing outside the present moment.</h3>
 
 <img alt="Coder smirking girl" width=420 align="right" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" />
 
