@@ -77,7 +77,10 @@ const Srish = {
 <p align="center">
 <a href="https://github.com/Srish-ty">
   <img alt="Srishty's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srish-ty&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-<img alt="Srishty's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Srish-ty&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/Srish-ty">
+  <img alt="Srishty's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Srish-ty&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
 
     
