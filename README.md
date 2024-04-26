@@ -87,8 +87,4 @@ const Srish = {
 <br/>
 <hr/>
 
-### Hacktoberfest completion
 
-[![An image of @l4dybu6's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/l4dybu6)](https://holopin.io/@l4dybu6)
-
-<hr/>
