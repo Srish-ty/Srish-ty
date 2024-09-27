@@ -61,6 +61,12 @@ const Srish = {
         misc: ["Firebase", "Socket.IO", "GTK"]
     },
     currentFocus: "Automation",
+
+    communities: {
+    Lead: Google Developers Group onCampus NITR",
+    LeadOrganiser: "AWS userGroup Sangli-Kolhapur",
+    member: [ "WTM Bhubaneshwar", "GDG Pune", "OpenCode, NITR" ]
+    }
 };
 ```
 
