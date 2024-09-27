@@ -57,10 +57,8 @@ const Srish = {
         databases: ["mongoDB", "MySql", "PostgreSQL"]
         web APIs: ["RESTful", "GraphQL"],
         CyberSec: ["Cryptography", "SQLinjenction", "ciphers", "encryption", "RSA", "hashcat", "nmap", "wireshark"],
-        deployment: ["heroku", "vercel" , "netlify"]
-        misc: ["Firebase", "Socket.IO", "GTK"]
     },
-    currentFocus: "Automation",
+    currentFocus: "Automation", "Dev Rel",
 
     communities: {
     Lead: Google Developers Group onCampus NITR",
