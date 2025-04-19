@@ -58,10 +58,10 @@ const Srish = {
         web APIs: ["RESTful", "GraphQL"],
         CyberSec: ["Cryptography", "SQLinjenction", "ciphers", "encryption", "RSA", "hashcat", "nmap", "wireshark"],
     },
-    currentFocus: "Automation", "Dev Rel",
+    currentFocus: [ "Devops", "Automation", "Cloud", Developer Relation🥑", "Community Management" ]
 
     communities: {
-    Lead: Google Developers Group onCampus NITR",
+    Lead: [ "Google Developers Group onCampus NITR", "HackNITR 6.0", "Autumn of Code🍁" ],
     LeadOrganiser: "AWS userGroup Sangli-Kolhapur",
     member: [ "WTM Bhubaneshwar", "GDG Pune", "OpenCode, NITR" ]
     }
