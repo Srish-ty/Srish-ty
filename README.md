@@ -50,12 +50,13 @@ const Srish = {
         backEnd: {
             ["Node.Js","Express.Js", "fastAPI", "Django"],
         },
+        web APIs: ["RESTful", "GraphQL"],
         machineLearning: [ "matplotLib", "pandas🐼", "np", "sklearn", "Tensorflow", "keras"],
         cloud: ["Linux", "Networking", "Terraform", "Bash"],
-        devOps: ["Docker🐳", "Kubernetes☸️", "Github actions", "yaml", "git"],
-        platforms: ["Azure", "AWS", "GCP"],
+        devOps: ["Docker🐳", "Kubernetes☸️", "Jenkins", "Github actions", "yaml", "git"],
+        platforms: ["Azure", "AWS", "GCP", "Digital Ocean"],
         databases: ["mongoDB", "MySql", "PostgreSQL"]
-        web APIs: ["RESTful", "GraphQL"],
+        AI_Engineering : [ "LangChain", "LangGraph", "ADK", "RAG servers", "Llamaindex", "MCP servers"]
         CyberSec: ["Cryptography", "SQLinjenction", "ciphers", "encryption", "RSA", "hashcat", "nmap", "wireshark"],
     },
     currentFocus: [ "Devops", "Automation", "Cloud", Developer Relation🥑", "Community Management" ]
