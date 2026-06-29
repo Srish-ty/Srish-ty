@@ -41,29 +41,29 @@
 
 ```javascript
 const Srish = {
-    languages: ["Javascript", "Python", "R", "PhP", "C", "C++", "mongoose", "GoLang"],
-    domains: ["web Dev", "M<achine Learning", "Cloud", "DevOps"],
+    languages: ["Javascript", "Python", "R", "Typescript", "C", "C++", "GoLang"],
+    domains: ["web Dev", "M<achine Learning", "Cloud", "DevOps", "AI Engineeing"],
     technologies: {
         frontEnd: {
             ["React.Js", "Next.Js", "Tailwind CSS", "Jquery", "Styled Components", "MaterialUI"]
         },
         backEnd: {
-            ["Node.Js","Express.Js", "fastAPI", "Django"],
+            ["Node.Js","Express.Js", "Go, gin", "nest.js", "fastAPI", "Django"],
         },
-        web APIs: ["RESTful", "GraphQL"],
+        web APIs: ["RESTful", "GraphQL", "gRPC", "websocket"],
         machineLearning: [ "matplotLib", "pandas🐼", "np", "sklearn", "Tensorflow", "keras"],
         cloud: ["Linux", "Networking", "Terraform", "Bash"],
         devOps: ["Docker🐳", "Kubernetes☸️", "Jenkins", "Github actions", "yaml", "git"],
         platforms: ["Azure", "AWS", "GCP", "Digital Ocean"],
-        databases: ["mongoDB", "MySql", "PostgreSQL"]
+        databases: ["mongoDB", "MySql", "PostgreSQL", "Neo4j", "Qdrant"]
         AI_Engineering : [ "LangChain", "LangGraph", "ADK", "RAG servers", "Llamaindex", "MCP servers"]
         CyberSec: ["Cryptography", "SQLinjenction", "ciphers", "encryption", "RSA", "hashcat", "nmap", "wireshark"],
     },
-    currentFocus: [ "Devops", "Automation", "Cloud", Developer Relation🥑", "Community Management" ]
+    currentFocus: [ "Devops", "Automation", "Cloud", "AI Engineering", "Developer Relation🥑", "Community Management" ]
 
     communities: {
-    Lead: [ "Google Developers Group onCampus NITR", "HackNITR 6.0", "Autumn of Code🍁" ],
-    LeadOrganiser: "AWS userGroup Sangli-Kolhapur",
+    Lead: [ "AWS Cloud Builder Group NITR", "Google Developers Group onCampus NITR", "HackNITR 6.0", "Autumn of Code🍁" ],
+    LeadOrganiser: "AWS userGroup Cloud Sangli",
     member: [ "WTM Bhubaneshwar", "GDG Pune", "OpenCode, NITR" ]
     }
 };
