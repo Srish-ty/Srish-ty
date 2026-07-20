@@ -3,7 +3,7 @@ name: GitHub-Profile-Summary-Cards
 on:
   schedule:
     # runs once every 24 hours
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * 3,5"
   workflow_dispatch:
 
 jobs:
