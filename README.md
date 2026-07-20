@@ -12,11 +12,11 @@
 
 - 🌱 I’m currently learning **Terraform, jenkins**
 
-- 👨‍💻 All of my projects are available at [GitHub profile (link)](https://github.com/Srish-ty/)
+- 👨‍💻 All of my projects are available at [GitHub (link)](https://github.com/Srish-ty/)
 
 - 📝 I regularly write articles on [Blog - Medium](https://msrishty.medium.com/)
 
-- 💬 Ask me about **ML, DevOps, Cloud, Cyber-security**
+- 💬 Ask me about **Agentic AI, DevOps, Cloud, Cyber-security**
 
 - 📫 How to reach me **[LinkedIn profile link](https://www.linkedin.com/in/m-srishty/)**
 
@@ -41,8 +41,8 @@
 
 ```javascript
 const Srish = {
-    languages: ["Javascript", "Python", "R", "Typescript", "C", "C++", "GoLang"],
-    domains: ["web Dev", "M<achine Learning", "Cloud", "DevOps", "AI Engineeing"],
+    languages: ["Javascript", "Python", "Rust", "Typescript", "C", "C++", "GoLang"],
+    domains: ["Web Dev", "Machine Learning", "Cloud", "DevOps", "AI Engineeing", "Agentic AI", "Distributed Systems", "Microservices"],
     technologies: {
         frontEnd: {
             ["React.Js", "Next.Js", "Tailwind CSS", "Jquery", "Styled Components", "MaterialUI"]
@@ -51,15 +51,15 @@ const Srish = {
             ["Node.Js","Express.Js", "Go, gin", "nest.js", "fastAPI", "Django"],
         },
         web APIs: ["RESTful", "GraphQL", "gRPC", "websocket"],
-        machineLearning: [ "matplotLib", "pandas🐼", "np", "sklearn", "Tensorflow", "keras"],
+        machineLearning: [ "matplotLib", "pandas🐼", "pyTorch", "sklearn", "Tensorflow", "keras"],
         cloud: ["Linux", "Networking", "Terraform", "Bash"],
-        devOps: ["Docker🐳", "Kubernetes☸️", "Jenkins", "Github actions", "yaml", "git"],
+        devOps: ["Docker🐳", "Kubernetes☸️", "Jenkins", "Github actions", "yaml", "CI/CD", "Kubectl", "Terraform", "Kafka"],
         platforms: ["Azure", "AWS", "GCP", "Digital Ocean"],
         databases: ["mongoDB", "MySql", "PostgreSQL", "Neo4j", "Qdrant"]
         AI_Engineering : [ "LangChain", "LangGraph", "ADK", "RAG servers", "Llamaindex", "MCP servers"]
         CyberSec: ["Cryptography", "SQLinjenction", "ciphers", "encryption", "RSA", "hashcat", "nmap", "wireshark"],
     },
-    currentFocus: [ "Devops", "Automation", "Cloud", "AI Engineering", "Developer Relation🥑", "Community Management" ]
+    currentFocus: [ "DevOps", "Automation", "Cloud", "AI Engineering", "Developer Relation🥑", "Community Management" ]
 
     communities: {
     Lead: [ "AWS Cloud Builder Group NITR", "Google Developers Group onCampus NITR", "HackNITR 6.0", "Autumn of Code🍁" ],
