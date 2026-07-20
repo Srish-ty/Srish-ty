@@ -91,22 +91,22 @@ const Srish = {
 </p>
 -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Srish-ty/Srish-ty/main/profile-summary-card-output/midnight_purple/0-profile-details.svg" width="65%" />
+  <img src="https://raw.githubusercontent.com/Srish-ty/Srish-ty/main/profile-summary-card-output/midnight_purple/0-profile-details.svg" width="75%" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Srish-ty/Srish-ty/main/profile-summary-card-output/react/1-repos-per-language.svg" width="29%" />
-  <img src="https://raw.githubusercontent.com/Srish-ty/Srish-ty/main/profile-summary-card-output/react/3-stats.svg" width="30%" />
+  <img src="https://raw.githubusercontent.com/Srish-ty/Srish-ty/main/profile-summary-card-output/react/1-repos-per-language.svg" width="30%" />
+  <img src="https://raw.githubusercontent.com/Srish-ty/Srish-ty/main/profile-summary-card-output/react/3-stats.svg" width="32%" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Srish-ty/Srish-ty/main/profile-summary-card-output/midnight_purple/3-stats.svg" width="36%" />
-  <img src="https://raw.githubusercontent.com/Srish-ty/Srish-ty/main/profile-summary-card-output/midnight_purple/4-productive-time.svg" width="36%" />
+  <img src="https://raw.githubusercontent.com/Srish-ty/Srish-ty/main/profile-summary-card-output/midnight_purple/3-stats.svg" width="38%" />
+  <img src="https://raw.githubusercontent.com/Srish-ty/Srish-ty/main/profile-summary-card-output/midnight_purple/4-productive-time.svg" width="38%" />
 </p>
 
 
     
  <div align="center">
-   <a href="https://github.com/Srish-ty"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Srishty streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Srish-ty&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></a>
+   <a href="https://github.com/Srish-ty"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Srishty streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Srish-ty&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" width="52%"/></a>
   </div>
 <br/>
 <hr/>
