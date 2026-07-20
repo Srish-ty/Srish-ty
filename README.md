@@ -95,12 +95,12 @@ const Srish = {
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Srish-ty/Srish-ty/main/profile-summary-card-output/react/1-repos-per-language.svg" width="48%" />
-  <img src="https://raw.githubusercontent.com/Srish-ty/Srish-ty/main/profile-summary-card-output/react/3-stats.svg" width="48%" />
+  <img src="https://raw.githubusercontent.com/Srish-ty/Srish-ty/main/profile-summary-card-output/react/1-repos-per-language.svg" width="29%" />
+  <img src="https://raw.githubusercontent.com/Srish-ty/Srish-ty/main/profile-summary-card-output/react/3-stats.svg" width="30%" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Srish-ty/Srish-ty/main/profile-summary-card-output/midnight_purple/3-stats.svg" width="48%" />
-  <img src="https://raw.githubusercontent.com/Srish-ty/Srish-ty/main/profile-summary-card-output/midnight_purple/4-productive-time.svg" width="48%" />
+  <img src="https://raw.githubusercontent.com/Srish-ty/Srish-ty/main/profile-summary-card-output/midnight_purple/3-stats.svg" width="36%" />
+  <img src="https://raw.githubusercontent.com/Srish-ty/Srish-ty/main/profile-summary-card-output/midnight_purple/4-productive-time.svg" width="36%" />
 </p>
 
 
