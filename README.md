@@ -5,7 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srish-ty&label=Profile%20views&color=0e75b6&style=flat" alt="srish-ty" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width=400 src="https://github-profile-trophy.vercel.app/?username=srish-ty" alt="srish-ty" /></a> </p>
+<!--  Trophy
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width=400 src="https://github-profile-trophy.vercel.app/?username=srish-ty" alt="srish-ty" /></a> </p> -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width=400 src="https://trophygh.kolioaris.xyz/?username=srish-ty" alt="srish-ty" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/m_srishty" target="blank"><img src="https://img.shields.io/twitter/follow/m_srishty?logo=twitter&style=for-the-badge" alt="m_srishty" /></a> </p>
 
