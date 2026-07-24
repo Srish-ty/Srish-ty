@@ -15,30 +15,10 @@
 ### Each card usage
 ---
 
-![](./0-profile-details.svg)
-
-```
-![](https://raw.githubusercontent.com/Srish-ty/Srish-ty/main/profile-summary-card-output/moltack/0-profile-details.svg)
-```
-
-    
-
----
-
 ![](./1-repos-per-language.svg)
 
 ```
 ![](https://raw.githubusercontent.com/Srish-ty/Srish-ty/main/profile-summary-card-output/moltack/1-repos-per-language.svg)
-```
-
-    
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/Srish-ty/Srish-ty/main/profile-summary-card-output/moltack/3-stats.svg)
 ```
 
     
